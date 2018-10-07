@@ -22,5 +22,5 @@ man kann derzeit noch nicht viel damit anfangen.
 
 <a>Geplante Funktionen</a>
 
-- [ ] Spiele hinzufügen<br>
+- [ ] Selbst Spiele hinzufügen<br>
 - [ ] Spiele automatisch hinzufügen (Andere Launcher APIs. Von Steam usw.)<br>
